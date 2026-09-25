@@ -1,0 +1,13 @@
+# Arduino derleme ciktilari
+RetroCam/build/
+*.elf
+*.map
+*.bin
+
+# Flash yedegi (4 MB, depoda isi yok)
+backup.bin
+
+# Isletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store
